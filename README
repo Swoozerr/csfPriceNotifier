@@ -1,3 +1,3 @@
-## Simple notifier for CSFloat price drops
+##Simple notifier for CSFloat price drops
 
 Utilizes CSFloat API and Pushover API to send notifications when price changes are detected.
